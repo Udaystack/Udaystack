@@ -22,7 +22,7 @@
 
 ## 💫 About Me
 
-- 🔭  Software Engineer at **Capital One**, building scalable, real-world solutions.
+- 🔭  Software Engineer at **Capital One**, building scalable, real-world solutions
 - 💻  **Full Stack Developer** — crafting end-to-end features across modern tech stacks
 - ☁️  Cloud-native builder: **AWS · PCF · OpenShift · Kubernetes** · Microservices architecture
 - 🧩  Strong in **Java · Spring Boot** & distributed systems design
