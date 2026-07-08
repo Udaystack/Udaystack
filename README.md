@@ -28,7 +28,7 @@
 - 🧩  Strong in **Java · Spring Boot** & distributed systems design
 - 🤖  Passionate about **AI & Machine Learning** — building tech that matters
 - 💡  Innovative thinker with a sharp eye for **critical problem solving**
-- 📈  Consistently learning, improving, and growing in tech every day
+- 📈  Consistently learning, improving, and growing in tech every day.
 
 ---
 
